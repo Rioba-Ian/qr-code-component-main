@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Continued development](#continued-development)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 
 ### Screenshot
@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-solution-using-html-and-css-DrlgjwuE3v)
+- Live Site URL: [Add live site URL here](https://rioba-ian.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -73,8 +73,8 @@ The areas I want to focus in future development are:
 
 ## Author
 
-- Website - [Add your name here](https://rioba-ian.github.io/qr-code-component-main/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Rioba-Ian)
-- Twitter - [@yourusername](https://twitter.com/rioba_riri)
+- Website - [Rioba-Ian](https://github.com/Rioba-Ian)
+- Frontend Mentor - [Rioba-ian](https://www.frontendmentor.io/profile/Rioba-Ian)
+- Twitter - [@rioba_riri](https://twitter.com/rioba_riri)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
